@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"yaegi-script/internal"
+	"github.com/danicc097/yaegi-script/internal"
 
 	"github.com/traefik/yaegi/interp"
 	"github.com/traefik/yaegi/stdlib"

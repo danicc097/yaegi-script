@@ -1,4 +1,4 @@
-module yaegi-script
+module github.com/danicc097/yaegi-script
 
 go 1.23.1
 
